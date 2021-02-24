@@ -1,4 +1,4 @@
-# Título aquí
+# Lista de Pokemon
 
 Este repositorio es una web con un listado de Pokemon. Es un ejercicio realizado con [React](https://es.reactjs.org/), que forma parte del curso de formación de la [Asociación Adalab.](https://adalab.es/)
 
