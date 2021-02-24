@@ -1,8 +1,13 @@
 * {
-  background-color: khaki;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  list-style: none;
-  list-style-type: none;
+}
+
+.App {
+  &__title {
+    margin-left: 5px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
 }

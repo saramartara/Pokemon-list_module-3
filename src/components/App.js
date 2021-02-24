@@ -5,11 +5,10 @@ import PokeList from './PokeList';
 
 const App = () => {
   const [pokemon] = useState(data);
-  console.log(useState);
 
   return (
     <div className="App">
-      <h1>Mi lista de Pokemon</h1>
+      <h2 className="App_title">Mi lista de Pokemon</h2>
       <PokeList getPokemons={pokemon} />
     </div>
   );

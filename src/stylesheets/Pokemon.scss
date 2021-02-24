@@ -1,0 +1,35 @@
+.item {
+  background-color: khaki;
+  border: black solid 1px;
+  border-radius: 12px;
+  padding: 5px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: center;
+
+  &__name {
+    text-transform: capitalize;
+    align-self: center;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+  }
+
+  &__type {
+    list-style: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    &--li {
+      border: black solid 1px;
+      border-radius: 8px;
+      margin: 2px;
+      padding: 3px;
+      font-size: small;
+      background-color: indianred;
+      color: wheat;
+    }
+  }
+}
