@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h2 className="App_title">Mi lista de Pokemon</h2>
+      <h1 className="App_title">Mi lista de Pokemon</h1>
       <PokeList getPokemons={pokemon} />
     </div>
   );
