@@ -2,7 +2,15 @@
 
 Este repositorio es una web con un listado de Pokemon. Es un ejercicio realizado con [React](https://es.reactjs.org/), que forma parte del curso de formación de la [Asociación Adalab.](https://adalab.es/)
 
-El objetivo principal de la realización del proyecto es **aprender**.
+El objetivo principal de la realización del proyecto es **aprender**:
+
+- Crear una aplicación React.
+- TGestionar datos en el archivo data.json.
+- Pintar con JavaScript una tarjeta con la información de un pokemon.
+- Pintar todas las tarjetas.
+- Usar 3 componentes JS principales: App, PokeList y Pokemon.
+- Ajustar la maquetación al diseño.
+- Publicar el [ejercicio](http://beta.adalab.es/modulo-3-evaluacion-intermedia-saramartara/) en GitHubPages
 
 ## Cómo instalarlo
 

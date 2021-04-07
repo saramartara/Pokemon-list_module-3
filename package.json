@@ -1,6 +1,6 @@
 {
   "homepage": "./",
-  "name": "pockemon-list",
+  "name": "pokemon-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
