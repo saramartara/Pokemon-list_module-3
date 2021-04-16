@@ -68,4 +68,4 @@ Develop version: [Click here!][beta]
 
 ---
 
-[beta]: http://beta.adalab.es/modulo-3-evaluacion-intermedia-saramartara/
+[beta]: https://saramartara.github.io/Pokemon-list_module-3/
